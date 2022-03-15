@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" id="svg2" width="12" height="12" version="1.1" viewBox="0 0 12 12">
+   <defs id="defs13">
+      <path id="path0_fill" fillRule="evenodd" d="M6.75 0a.75.75 0 000 1.5H9.5v7H6.75a.75.75 0 000 1.5h3.5a.75.75 0 00.75-.75V.75a.75.75 0 00-.75-.75h-3.5zM0 5a.75.75 0 01.75-.75h4.036L3.47 2.934a.75.75 0 111.06-1.06L7.127 4.47a.75.75 0 010 1.06L4.53 8.126a.75.75 0 11-1.06-1.06L4.785 5.75H.75A.75.75 0 010 5z"></path>
+   </defs>
+   <rect id="rect4146" width="12" height="11.5" x="0.051" y="0.246" fill="#665f66" fillOpacity="1" stroke="none" strokeDasharray="none" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="4" strokeOpacity="0.567" strokeWidth="0" opacity="1" rx="1.56"></rect>
+   <path id="path1056" fill="#fff" strokeWidth="0.847" d="M1.322 5.95c0-.352.285-.636.636-.636h3.42L4.262 4.198a.636.636 0 11.9-.898l2.2 2.2a.636.636 0 010 .899l-2.2 2.2a.636.636 0 11-.9-.9l1.116-1.114h-3.42a.636.636 0 01-.636-.636z"></path>
+   <path id="use11" fill="#fff" strokeWidth="0.847" d="M7.042 1.712a.636.636 0 000 1.271h2.33v5.932h-2.33a.636.636 0 000 1.271h2.966a.636.636 0 00.636-.635V2.347a.636.636 0 00-.636-.635z"></path>
+</svg>

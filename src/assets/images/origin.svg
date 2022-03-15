@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" transform="translate(-301 -660)">
+<g id="Icons/Destination">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(301 660)" fill="#666666"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 0C 5.37259 0 0 5.37256 0 12C 0 18.6274 5.37259 24 12 24C 18.6274 24 24 18.6274 24 12C 24 5.37256 18.6274 0 12 0ZM 12 5C 9.24286 5 7 7.198 7 9.90002C 7 12.9738 10.4979 17.2719 11.6424 18.5959C 11.8334 18.8169 12.1666 18.8169 12.3576 18.5959C 13.5021 17.2719 17 12.9738 17 9.90002C 17 7.198 14.7571 5 12 5ZM 12 12C 13.1046 12 14 11.1046 14 10C 14 8.89545 13.1046 8 12 8C 10.8954 8 10 8.89545 10 10C 10 11.1046 10.8954 12 12 12Z"/>
+</defs>
+</svg>
